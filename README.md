@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Multi-Messenger 
 
-You can use the [editor on GitHub](https://github.com/mister-sagar/Multimessenger/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A python program which allows you to message your friend on Facebook / Phone, comes with feature of mailing as well. [Multiple Attachments].
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mister-sagar/Multimessenger/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+<body>
+<h2> Getting Started </h2>
+<p> A python based messaging application which can be implemented and used to message,attach files and send it to any of your friend directly through terminal.A SMS can also be sent easily using this program, with some limitations depending on your Twilio's Account status. 
+We have tried to make it user friendly and easily accessible. </p>
+<h2> Instructions before using the program: </h2>
+<p>
+Before compiling and running the code, installation the following modules is necessary: </p>
+<ol>
+<li> <a href="https://www.twilio.com/docs/libraries/python"> <b> Twilio Client </b> </a> </li>
+<li> <a href="https://pypi.python.org/pypi/fbchat/"> <b> fbchat Module </b></a> </li>
+<li> <a href="https://pip.pypa.io/en/stable/installing/"> <b> Installing pip </b> </a> is recommended to easily install Twilio Client and fbchat module.  </li>
+</ol>
+<h2> HOW-TO INSTRUCTIONS </h2>
+<ul> 
+<li> The options required in the Main menu have to be filled exactly and accurately. </li>
+<li> Proper informatin regarding the username and the password has to be entered by the user. </li>
+<li> User has to enter the exact address of the files to be attached if (any). </li>
+<li> The twilio account "SID number" and "Auth token" has to be entered by the user to send the required messages. </li>
+</ul>
+<h2> Contributors </h2>
+<p> The project has been proudly contributed by the team of two programmers :  </p>
+<ul>
+<li> Krutika Bapat </li>
+<li> Kushashwa Ravi Shrimali </li>
+</ul>
+</body>
+</html>
