@@ -26,8 +26,8 @@ Before compiling and running the code, installation the following modules is nec
 <h2> Contributors </h2>
 <p> The project has been proudly contributed by the team of two programmers :  </p>
 <ul>
-<li> Krutika Bapat </li>
-<li> Kushashwa Ravi Shrimali </li>
+<li> sagar </li>
+<li>Muhammed Naji N M </li>
 </ul>
 </body>
 </html>
