@@ -24,10 +24,10 @@ Before compiling and running the code, installation the following modules is nec
 <li> The twilio account "SID number" and "Auth token" has to be entered by the user to send the required messages. </li>
 </ul>
 <h2> Contributors </h2>
-<p> The project has been proudly contributed by the team of two programmers :  </p>
+<p> The project has been proudly contributed by</p>
 <ul>
 <li> sagar </li>
-<li>Muhammed Naji N M </li>
+
 </ul>
 </body>
 </html>
